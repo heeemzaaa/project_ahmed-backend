@@ -16,12 +16,12 @@ import (
 )
 
 func init() {
-	os.MkdirAll("/home/hamza/Desktop/project_ahmed/backend/database", os.ModePerm)
+	os.MkdirAll("./database", os.ModePerm)
 
 	godotenv.Load()
 
 	var err error
-	g.DB, err = sql.Open("sqlite3", "file:/home/hamza/Desktop/project_ahmed/backend/database/database.db?_busy_timeout=2000&_journal_mode=WAL")
+	g.DB, err = sql.Open("sqlite3", "file:./database/database.db?_busy_timeout=2000&_journal_mode=WAL")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -31,6 +31,10 @@ func init() {
 func main() {
 	mux := routes.SetRoutes(g.DB)
 
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
 	log.Println("Server running on :8080")
-	http.ListenAndServe("0.0.0.0:8080", middlewares.NewCorsMiddleware(mux))
+	http.ListenAndServe("0.0.0.0:"+port, middlewares.NewCorsMiddleware(mux))
 }
