@@ -1,0 +1,78 @@
+id,title,category,vdocipherVideoId,orderIndex,folderOrder
+sup_001_01,"001 - Représentation des Nombres Dans la Machine:::001 - Représentation des Nombres dans la Machine (Séance 1).mp4",SUP,5875167725b7467ca924806fbf6b5fa6,1,1
+sup_001_02,"001 - Représentation des Nombres Dans la Machine:::002 - Représentation des Nombres dans la Machine (Séance 2).mp4",SUP,14532e3cca0a43b0a9cac97a6c2c7de6,2,1
+sup_001_03,"001 - Représentation des Nombres Dans la Machine:::003 - Représentation des Nombres dans la Machine - Exercices.mp4",SUP,b99a7e5a025140a8afdbb65d4b45c8b6,3,1
+sup_002_01,"002 - Introduction au Langage Python:::001 - Introduction au Langage Python - Cours.mp4",SUP,fcc4b720721b44af8c88043d1ea52f9b,1,2
+sup_002_02,"002 - Introduction au Langage Python:::002 - Introduction au Langage Python - Exercices.mp4",SUP,16258cd56ae14d0a997ba582bd094ee4,2,2
+sup_003_01,"003 - Structures Conditionnelles (if/else/elif):::Structures Conditionnelles (if-else-elif) - Cours & Exercices.mp4",SUP,f685d97b499749969b32962b6b00e5be,1,3
+sup_004_01,"004 - Structures Répétitives (Les boucles for et while):::Structures Répétitives (Les Boucles for et while) - Cours & Exercices.mp4",SUP,eaa94a0071244e8c8019883079072e68,1,4
+sup_005_01,"005 - Les Fonctions:::001 - Les Fonctions - Cours.mp4",SUP,42b4956116d043148d8247fecdaf8950,1,5
+sup_005_02,"005 - Les Fonctions:::002 - Les Fonctions - Exercices.mp4",SUP,f99c0c9073ea42aaa69c0dc2edef9f36,2,5
+sup_006_01,"006 - Terminaison & Correction:::Terminaison et Correction - Cours & Exercices.mp4",SUP,063b5340f35441bcac99b2120285a668,1,6
+sup_007_01,"007 - Les Listes:::001 - Les Listes - Cours.mp4",SUP,4f0070af897a41608bff926b088b22fe,1,7
+sup_007_02,"007 - Les Listes:::002 - Les Listes - Exercices.mp4",SUP,2a6e9644b5e848bbaa05b7019a7fbe27,2,7
+sup_007_03,"007 - Les Listes:::003 - Les Tris - Cours & Exercices.mp4",SUP,1259ebad928a4408863f60a419b89ef3,3,7
+sup_008_01,"008 - Les Chaînes de Caractères:::001 - Les Chaînes de Caractères - Cours.mp4",SUP,97606482d21e4d50854b3488d366337f,1,8
+sup_008_02,"008 - Les Chaînes de Caractères:::002 - Les Chaînes de Caractères - Exercices.mp4",SUP,c25a551cf6a543b192e2d4b9f8078610,2,8
+sup_009_01,"009 - Les Tuples Les Dictionnaires, Les Ensembles:::001 - Les Tuples, Les Dictionnaires et Les Ensembles - Cours.mp4",SUP,973341db90c54fccb2043b59fa2b68ab,1,9
+sup_009_02,"009 - Les Tuples, Les Dictionnaires et Les Ensembles:::002 - Les Tuples, Les Dictionnaires et Les Ensembles - Exercices.mp4",SUP,ae5c8fc2330f43aaa11f4e6e035ccdc2,2,9
+sup_010_01,"010 - Les Tableaux (Les Matrices):::Les Tableaux (Les Matrices) - Cours & Exercices.mp4",SUP,54876def995e4173a9e5f72fe10c0655,1,10
+sup_011_01,"011 - Ingénierie Numérique:::001 - Ingénierie Numérique - Equations f(x) = 0 & Intégration Numérique.mp4",SUP,70a3082ad0f74054b31378a5b7b3c626,1,11
+sup_011_02,"011 - Ingénierie Numérique:::002 - Ingénierie Numérique - Bibliothèques math & numpy.mp4",SUP,387e65b070544cc99732d890fd0e4730,2,11
+sup_011_03,"011 - Ingénierie Numérique:::003 - Ingénierie Numérique - Bibliothèques Matplotlib & Scipy + Equa Diff.mp4",SUP,4b12fe9091854a76b0862cb03de22b59,3,11
+sup_012_01,"012 - Les Piles et Les Files:::Les Piles et Les Files - Cours & Exercices.mp4",SUP,60fbb773948d4063b6249cd132613737,1,12
+sup_013_01,"013 - Les Fichiers:::Les Fichiers - Cours & Exercices.mp4",SUP,5a45086e9b4549f6939c3e03775681f5,1,13
+sup_014_01,"014 - Traitement des Images:::Traitement des Images - Cours & Exercices.mp4",SUP,7405e708a1f44971be779a74aa836173,1,14
+sup_015_01,"015 - La Récursivité:::La Récursivité - Cours & Exercices.mp4",SUP,7c87477d0701486f9a651fe19775e655,1,15
+sup_016_01,"016 - Devoirs Libres Corrigés:::001 - Corrigé du DL N°1.mp4",SUP,a541dc3f3d084f48af055405c7a61053,1,16
+sup_016_02,"016 - Devoirs Libres Corrigés:::002 - Corrigé du DL N°2.mp4",SUP,e6c95c4bad47417bb23f024b780dff5e,2,16
+spe_001_01,"001 - Révision SUP:::001 - Révision SUP (Partie 1).mp4",SPE,e39c61bcc8884ea39596b10917076cb5,1,1
+spe_001_02,"001 - Révision SUP:::002 - Révision SUP (Partie 2).mp4",SPE,15de59bc8eab4dee85b36cf11e60d41f,2,1
+spe_002_01,"002 - La Complexité Temporelle:::001 - La Complexité Temporelle - Cours & Exercices (Partie 1).mp4",SPE,bfda2b5ee1a74e6a83b557e4283267b0,1,2
+spe_002_02,"002 - La Complexité Temporelle:::002 - La Complexité Temporelle - Cours & Exercices (Partie 2).mp4",SPE,45f3b24ca0594abe935bba1fa7df968d,2,2
+spe_002_03,"002 - La Complexité Temporelle:::003 - La Complexité Temporelle - Cours & Exercices (Partie 3).mp4",SPE,fb8f5b7b186c4fcda0348da5aba79ff5,3,2
+spe_003_01,"003 - Les Tris et Leurs Complexités:::001 - Les Tris et leurs Complexités - Cours & Exercices (Partie 1).mp4",SPE,867eb4351d494d8bb0814eafb5891a56,1,3
+spe_003_02,"003 - Les Tris et Leurs Complexités:::002 - Les Tris et leurs Complexités - Cours & Exercices (Partie 2).mp4",SPE,370453350a0e4f1eb87f3b3026ee4f6d,2,3
+spe_004_01,"004 - Résolution Numérique des Équations Différentielles:::001 - Résolution Numérique des Équations Différentielles du Premier Ordre.mp4",SPE,526ea2ed8d7448f1b1fcd2dc112f6006,1,4
+spe_004_02,"004 - Résolution Numérique des Équations Différentielles:::002 - Résolution Numérique des Équations Différentielles du Deuxième Ordre.mp4",SPE,5ddcb4ab516c4e02a5c4be329f0f3c2c,2,4
+spe_004_03,"004 - Résolution Numérique des Équations Différentielles:::003 - Résolution des Équations Différentielles - Extraits des CNCs.mp4",SPE,e381fd3a50f244f2aebde03e8b0d523e,3,4
+spe_005_01,"005 - Les Arbres Binaires:::001 - Les Arbres Binaires - Cours & Exercices (Partie 1).mp4",SPE,136538e66a714122bc5dd583d94d2d29,1,5
+spe_005_02,"005 - Les Arbres Binaires:::002 - Les Arbres Binaires - Cours & Exercices (Partie 2).mp4",SPE,ff6f7c9d52964ffeb01cff13c5d4c991,2,5
+spe_005_03,"005 - Les Arbres Binaires:::003 - Les Arbres Binaires - Cours & Exercices (Partie 3).mp4",SPE,66dc593bbadc45caaf215fa10b890b20,3,5
+spe_005_04,"005 - Les Arbres Binaires:::004 - Les Arbres Binaires - Cours & Exercices (Partie 4).mp4",SPE,1d99ccd0bc874ab4a1fbfaca7a855d73,4,5
+spe_006_01,"006 - Les Algorithmes Gloutons:::Les Algorithmes Gloutons - Cours & Exercices.mp4",SPE,811a06987742495ebdc78448ae712cb9,1,6
+spe_007_01,"007 - La Programmation Dynamique:::001 - La Programmation Dynamique - Cours & Exercices (Partie 1).mp4",SPE,4711b9b5e6e04d5e90678909f96831bd,1,7
+spe_007_02,"007 - La Programmation Dynamique:::002 - La Programmation Dynamique - Cours & Exercices (Partie 2).mp4",SPE,9d7c985c02ac45e4a3e0305c8265a717,2,7
+spe_008_01,"008 - Notion d'Heuristique -",SPE, no video 1,1,8
+spe_009_01,"009 - Les Graphes:::001 - Les Graphes - Généralités - Cours & Exercices.mp4",SPE,7514171f73654856a2ffc533f703bce4,1,9
+spe_009_02,"009 - Les Graphes:::002 - Les Graphes - Les Parcours - Cours & Exercices.mp4",SPE,8d7e29c8b0614341be9af1b9e78eb081,2,9
+spe_009_03,"009 - Les Graphes:::003 - Les Graphes - Algorithme de Dijkstra - Cours & Exercices.mp4",SPE,cbceffedc2bc445d89dd047f5a7c26a6,3,9
+spe_009_04,"009 - Les Graphes:::004 - Les Graphes - Algorithme Astar (A*) - Cours & Exercices.mp4",SPE,e2c371521a25457e949d0b73f7228635,4,9
+spe_010_01,"010 - Traitement des Images",SPE, no video 2,1,10
+spe_011_01,"011 - Intelligence Artificielle",SPE, no video 3,1,11
+spe_012_01,"012 - Les Bases de Données:::001 - Les Bases de Données - Algèbre relationnelle - Cours & Exercices (Partie 1).mp4",SPE,9ba76b4034cd4bc19226cc23e9854eca,1,12
+spe_012_02,"012 - Les Bases de Données:::002 - Les Bases de Données - Algèbre relationnelle - Cours & Exercices (Partie 2).mp4",SPE,6f2ccf7350e44b59a7e0a974888bc659,2,12
+spe_012_03,"012 - Les Bases de Données:::003 - Les Bases de Données - Algèbre relationnelle - Cours & Exercices (Partie 3).mp4",SPE,4170d9ff179546d8a3ce72f561e10175,3,12
+spe_012_04,"012 - Les Bases de Données:::004 - Les Bases de Données - Langage SQL - Cours & Exercices (Partie 1).mp4",SPE,4cb547e5488b4a3c904c6bbcc03c2719,4,12
+spe_012_05,"012 - Les Bases de Données:::005 - Les Bases de Données - Langage SQL - Cours & Exercices (Partie 2).mp4",SPE,0b92780a9e32404b842607e3dcaaf668,5,12
+spe_012_06,"012 - Les Bases de Données:::006 - Les Bases de Données - Langage SQL - Cours & Exercices (Partie 3).mp4",SPE,2462d2edd2ad4e15bc384e5a425fcb7e,6,12
+cnc_000_01,"001 - CNC 2024 - Exercices Préliminaires - MP : PSI, TSI.mp4",CNC,3dd305e3d49849d6981ea5ae6378050f,1,
+cnc_000_02,"002 - CNC 2023 - Exercices Préliminaires - MP, PSI & TSI.mp4",CNC,1c81009884eb4ecbb702ee11bdc72dbd,2,
+cnc_000_03,"003 - CNC 2020 - MP - Partie III.mp4",CNC,04303786f87a4450a74d66a3c5e6c5d6,3,
+cnc_000_04,"004 - CNC 2022 - PSI - Partie III.mp4",CNC,94abcbde15c2436e81c0559448b80c91,4,
+cnc_000_05,"005 - CNC 2023 - Partie SQL - MP, PSI & TSI.mp4",CNC,8f70d38d890648db8a10a35e7164d5dc,5,
+cnc_000_06,"006 - CNC 2018 - TSI - Partie II.mp4",CNC,9d6ee7b723e74133943b304f6121aa05,6,
+cnc_000_07,"007 - CNC 2022 - Partie SQL - MP, PSI & TSI.mp4",CNC,218bee8792c546da915e0ad6ace9a9b7,7,
+cnc_000_08,"008 - CNC 2020 - PSI & TSI - Partie III.mp4",CNC,8f30fd999c654c928ecc5ca91b809bbb,8,
+cnc_000_09,"009 - CNC 2020 - MP, PSI & TSI - Partie SQL.mp4",CNC,63ccf557395c48ca9ecb312e9086d1bb,9,
+cnc_000_10,"010 - CNC 2024 - TSI - Partie II.mp4",CNC,0cf6384e88c549649f65bc875b5c319a,10,
+cnc_000_11,"011 - CNC 2024 - PSI - Partie II.mp4",CNC,580b7d2d469b476296de7dec8f09c73e,11,
+cnc_000_12,"012 - CNC 2022 - MP - Partie III.mp4",CNC,050ba9a6053741d1bc6d053f01aa5b6f,12,
+cnc_000_13,"013 - CNC 2021 - TSI & PSI - Partie I.mp4",CNC,cdce1283caa445618bfe3394b7613ab3,13,
+cnc_000_14,"014 - CNC 2017 - MP, PSI & TSI - Partie II.mp4",CNC,ba698245ede14cc5948884e5e254d3ab,14,
+cnc_000_15,"015 - CNC 2019 - PSI & TSI - Problème - Parties I et II.mp4",CNC,fc7d7eb8773645fb91a0fe80e561b345,15,
+cnc_000_16,"016 - CNC 2016 - MP, PSI & TSI - PROBLEME I.mp4",CNC,ef5401b0ed8c4c549529f5f6ee4a91df,16,
+cnc_000_17,"017 - CNC 2017 - MP, PSI & TSI - Partie I.mp4",CNC,2abfa93936274f25bd78d0027c50e4cb,17,
+cnc_000_18,"018 - CNC 2016 - MP, PSI & TSI - PROBLEME II.mp4",CNC,1ae0cd7949a24c8bb914a2ecbc8a8a23,18,
+cnc_000_19,"019 - CNC 2021 - Partie SQL - MP, PSI & TSI.mp4",CNC,f38673b3cb504abf91e55cd8487f35e9,19,
+cnc_000_20,"020 - CNC 2022 PSI & TSI Partie II - CNC 2018 TSI Partie III.mp4",CNC,5dd904c31b044141b4a43019bf0274,20,
