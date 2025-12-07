@@ -15,16 +15,23 @@ func NewCorsMiddleware(handler http.Handler) *CorsMiddleware {
 func (m *CorsMiddleware) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	origin := r.Header.Get("Origin")
 
-	// Allow only your frontend origin
-	if origin == "http://localhost:3000" {
+	// Allowed origins for both local dev and production
+	allowedOrigins := map[string]bool{
+		"http://localhost:3000":               true,
+		"https://your-frontend.vercel.app":    true,
+	}
+
+	// If the origin is in our allowlist, allow it
+	if allowedOrigins[origin] {
 		w.Header().Set("Access-Control-Allow-Origin", origin)
+		w.Header().Set("Vary", "Origin") // important!
 	}
 
 	w.Header().Set("Access-Control-Allow-Methods", "GET, POST, PATCH, OPTIONS, DELETE, PUT")
 	w.Header().Set("Access-Control-Allow-Headers", "Content-Type, Authorization, Cookie")
 	w.Header().Set("Access-Control-Allow-Credentials", "true")
 
-	// Handle preflight requests
+	// Handle preflight OPTIONS request
 	if r.Method == http.MethodOptions {
 		w.WriteHeader(http.StatusOK)
 		return
