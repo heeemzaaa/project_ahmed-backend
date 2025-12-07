@@ -16,15 +16,18 @@ import (
 )
 
 func init() {
-	os.MkdirAll("./database", os.ModePerm)
+	os.MkdirAll("/var/data", os.ModePerm)
 
 	godotenv.Load()
 
+	dbPath := "file:/var/data/database.db?_busy_timeout=2000&_journal_mode=WAL"
+
 	var err error
-	g.DB, err = sql.Open("sqlite3", "file:./database/database.db?_busy_timeout=2000&_journal_mode=WAL")
+	g.DB, err = sql.Open("sqlite3", dbPath)
 	if err != nil {
 		log.Fatal(err)
 	}
+
 	m.Migrate()
 }
 
